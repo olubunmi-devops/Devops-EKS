@@ -20,6 +20,9 @@ Next, apply the terraform script:
 terraform apply --auto-approve
 ![image](https://github.com/user-attachments/assets/ec0ab08d-1360-4d2f-a50b-64ba80a90df1)
 
+The terraform script will create the following: VPC,Private  & Public Subnets, EKS Cluster, 1 t2.medium node
+Note: The terraform script will take some time to provision approximately ~10–15min
+
 ![image](https://github.com/user-attachments/assets/18af48f3-948b-44d0-bff4-3bf4963ccec5)
 
 ![image](https://github.com/user-attachments/assets/6ac5a68f-c2b5-4158-82d9-4ca1efaf1196)
