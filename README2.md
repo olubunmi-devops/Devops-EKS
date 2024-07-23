@@ -11,9 +11,9 @@ By default, helm will initialise a chart that deploys nginx. In our case, we nee
 ![image](https://github.com/user-attachments/assets/54b66d94-82e5-45ef-ad1c-8e5cd87a52ca)
 The code block, removes nginx image and replaces it with username/imagename. Don’t worry about it being invalid the plan is to get the pipeline to automatically fill in the username, image name, and tag name so just let the username and imagename be like that, don’t edit it to your own.
 ![image](https://github.com/user-attachments/assets/e8a9ecb7-2e8f-43b0-ae76-480be254a6a3)
-
 6.Create EKS cluster using Terraform.If you already have an EKS cluster running in AWS you can use, you can skip this part and jump straight to the GitHub actions section. Else, navigate to /terraform folder in the codebase directory and execute the command:
 Note: Ensure you have set up your AWS CLI and access keys on your local machine before executing the terraform commands.
 terraform init
 Next, apply the terraform script:
 terraform apply --auto-approve
+![image](https://github.com/user-attachments/assets/ec0ab08d-1360-4d2f-a50b-64ba80a90df1)
