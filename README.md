@@ -48,5 +48,10 @@ If successful, you should have a new image tag in docker hub and the app running
 
 ![image](https://github.com/user-attachments/assets/ebb69f96-faa3-48b2-969e-a313e7ee8370)
 
+![image](https://github.com/user-attachments/assets/438c9018-b835-4ec5-9b75-15bc1c712959)
+
+![image](https://github.com/user-attachments/assets/1b200f01-b9ad-45bb-865d-42ec2986ef17)
+
+
 
 
