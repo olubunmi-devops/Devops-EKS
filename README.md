@@ -1,6 +1,6 @@
 # EKS cluster setup with terraform
 1. Create an EC2 instance,SSH and perform the neccesary updates.
-2. Required tools are installed and running
+2. Required tools are installed and running (git,docker,helm,terraform)
 ![image](https://github.com/user-attachments/assets/bab88562-2595-453a-af69-f33d60df4d01)
 3. Clone your repository to your local
 ![image](https://github.com/user-attachments/assets/dd2131dc-c7ed-40a5-8689-c287af121ce0)
