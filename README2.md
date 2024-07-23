@@ -17,3 +17,27 @@ terraform init
 Next, apply the terraform script:
 terraform apply --auto-approve
 ![image](https://github.com/user-attachments/assets/ec0ab08d-1360-4d2f-a50b-64ba80a90df1)
+
+![image](https://github.com/user-attachments/assets/18af48f3-948b-44d0-bff4-3bf4963ccec5)
+
+![image](https://github.com/user-attachments/assets/6ac5a68f-c2b5-4158-82d9-4ca1efaf1196)
+
+![image](https://github.com/user-attachments/assets/65246085-21db-4a06-907b-097ff7b9a2cb)
+
+![image](https://github.com/user-attachments/assets/6075fe2f-4315-4e8b-b5c4-2d952ac7b707)
+
+
+![image](https://github.com/user-attachments/assets/156875d6-e651-418c-8c56-368069adc034)
+
+
+
+![image](https://github.com/user-attachments/assets/38ee5ffd-648e-4b60-a438-5ca9bb6cefa5)
+
+
+![image](https://github.com/user-attachments/assets/00ce257e-8eb7-4d8a-ae97-97ff11cf08cb)
+
+
+
+
+
+
