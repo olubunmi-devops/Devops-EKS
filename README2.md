@@ -37,8 +37,15 @@ terraform apply --auto-approve
 
 ![image](https://github.com/user-attachments/assets/00ce257e-8eb7-4d8a-ae97-97ff11cf08cb)
 
+Install kubectl in your terminal and ensure its running.
+
+If successful, you should have a new image tag in docker hub and the app running in kubernetes.
 
 
 
+![image](https://github.com/user-attachments/assets/3121f74f-fbff-42e6-aca8-37a1b0a4a215)
+
+
+![image](https://github.com/user-attachments/assets/ebb69f96-faa3-48b2-969e-a313e7ee8370)
 
 
